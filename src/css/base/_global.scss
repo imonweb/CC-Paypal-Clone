@@ -15,8 +15,19 @@
 html {
   font-size: 62.5%;
 }
-
  
 .nav-dropdown-2 {
   display: none;
+}
+
+ button.blue-btn {
+  width: 25rem;
+  height: 5rem;
+  background-color: $blue;
+  color: #fff;
+  border-radius: 3rem;
+  border: none;
+  font-size: 1.6rem;
+  font-weight: 600;
+  cursor: pointer;
 }
